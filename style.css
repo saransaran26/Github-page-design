@@ -1,0 +1,58 @@
+.col-12{
+    background-color: gray;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+}
+.container .col-4{
+    background-color: gray;
+    height: 500px;
+    border-radius: 20px;
+}
+.col-6 input{
+    border-radius: 10px;
+    margin-left: 160px;
+    border: 1px solid black;
+}
+.box1{
+    height: 100px;
+    width:200px;
+    background-color: gray;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.box2{
+    height: 100px;
+    width:200px;
+    background-color: gray;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.box3{
+    height: 100px;
+    width:200px;
+    background-color: gray;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.flex{
+    display: flex;
+}
+.bigbox{
+    background-color: gray;
+    height: 200px;
+    margin-top: 70px;
+    margin-left: 35px;
+    border-radius: 20px;
+    background: url("image.jpg") center/cover no-repeat;
+}
+.col-4{
+    color: white;
+    overflow: auto;
+    padding: 15px;
+}
